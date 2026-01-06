@@ -83,15 +83,6 @@ For full methodology, literature survey, architecture diagrams, and more:
 
 ---
 
-Contributor
-
-| Name | Roll Number |
-|------|-------------|
-| **Isha** | 2247026 |
-| **Sakshi Priya** | 2206274 |
-| **Nikita Kumawat** | 2247027 |
-
- **Supervisor:** Dr. Kakali Chatterjee, Associate Professor, Dept. of CSE, NIT Patna
 
 
 
